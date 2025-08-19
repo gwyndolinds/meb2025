@@ -1,4 +1,4 @@
-name: mebo2024_v5
+name: meb2025_v5
 channels:
 - conda-forge
 dependencies:
