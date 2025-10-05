@@ -197,5 +197,6 @@ pyvenv.cfg
 pip-selfcheck.json
 
 examenes/
+entregas/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,venv
